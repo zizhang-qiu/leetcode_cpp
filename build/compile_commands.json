@@ -1,0 +1,176 @@
+[
+{
+  "directory": "D:/Projects/leetcode/build",
+  "command": "\"D:\\Program Files (x86)\\vs22\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe\"  /nologo /TP /DWIN32 /D_WINDOWS /EHsc /Ob0 /Od /RTC1 -std:c++17 -MDd -Zi /FoCMakeFiles\\2085.dir\\src\\2085.cpp.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Projects\\leetcode\\src\\2085.cpp",
+  "file": "D:\\Projects\\leetcode\\src\\2085.cpp",
+  "output": "CMakeFiles\\2085.dir\\src\\2085.cpp.obj"
+},
+{
+  "directory": "D:/Projects/leetcode/build",
+  "command": "\"D:\\Program Files (x86)\\vs22\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe\"  /nologo /TP /DWIN32 /D_WINDOWS /EHsc /Ob0 /Od /RTC1 -std:c++17 -MDd -Zi /FoCMakeFiles\\42.dir\\src\\42.cc.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Projects\\leetcode\\src\\42.cc",
+  "file": "D:\\Projects\\leetcode\\src\\42.cc",
+  "output": "CMakeFiles\\42.dir\\src\\42.cc.obj"
+},
+{
+  "directory": "D:/Projects/leetcode/build",
+  "command": "\"D:\\Program Files (x86)\\vs22\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe\"  /nologo /TP /DWIN32 /D_WINDOWS /EHsc /Ob0 /Od /RTC1 -std:c++17 -MDd -Zi /FoCMakeFiles\\2182.dir\\src\\2182.cc.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Projects\\leetcode\\src\\2182.cc",
+  "file": "D:\\Projects\\leetcode\\src\\2182.cc",
+  "output": "CMakeFiles\\2182.dir\\src\\2182.cc.obj"
+},
+{
+  "directory": "D:/Projects/leetcode/build",
+  "command": "\"D:\\Program Files (x86)\\vs22\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe\"  /nologo /TP /DWIN32 /D_WINDOWS /EHsc /Ob0 /Od /RTC1 -std:c++17 -MDd -Zi /FoCMakeFiles\\01bag.dir\\src\\01bag.cc.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Projects\\leetcode\\src\\01bag.cc",
+  "file": "D:\\Projects\\leetcode\\src\\01bag.cc",
+  "output": "CMakeFiles\\01bag.dir\\src\\01bag.cc.obj"
+},
+{
+  "directory": "D:/Projects/leetcode/build",
+  "command": "\"D:\\Program Files (x86)\\vs22\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe\"  /nologo /TP /DWIN32 /D_WINDOWS /EHsc /Ob0 /Od /RTC1 -std:c++17 -MDd -Zi /FoCMakeFiles\\83.dir\\src\\83.cc.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Projects\\leetcode\\src\\83.cc",
+  "file": "D:\\Projects\\leetcode\\src\\83.cc",
+  "output": "CMakeFiles\\83.dir\\src\\83.cc.obj"
+},
+{
+  "directory": "D:/Projects/leetcode/build",
+  "command": "\"D:\\Program Files (x86)\\vs22\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe\"  /nologo /TP /DWIN32 /D_WINDOWS /EHsc /Ob0 /Od /RTC1 -std:c++17 -MDd -Zi /FoCMakeFiles\\45.dir\\src\\45.cc.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Projects\\leetcode\\src\\45.cc",
+  "file": "D:\\Projects\\leetcode\\src\\45.cc",
+  "output": "CMakeFiles\\45.dir\\src\\45.cc.obj"
+},
+{
+  "directory": "D:/Projects/leetcode/build",
+  "command": "\"D:\\Program Files (x86)\\vs22\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe\"  /nologo /TP /DWIN32 /D_WINDOWS /EHsc /Ob0 /Od /RTC1 -std:c++17 -MDd -Zi /FoCMakeFiles\\82.dir\\src\\82.cc.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Projects\\leetcode\\src\\82.cc",
+  "file": "D:\\Projects\\leetcode\\src\\82.cc",
+  "output": "CMakeFiles\\82.dir\\src\\82.cc.obj"
+},
+{
+  "directory": "D:/Projects/leetcode/build",
+  "command": "\"D:\\Program Files (x86)\\vs22\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe\"  /nologo /TP /DWIN32 /D_WINDOWS /EHsc /Ob0 /Od /RTC1 -std:c++17 -MDd -Zi /FoCMakeFiles\\temp.dir\\src\\temp.cc.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Projects\\leetcode\\src\\temp.cc",
+  "file": "D:\\Projects\\leetcode\\src\\temp.cc",
+  "output": "CMakeFiles\\temp.dir\\src\\temp.cc.obj"
+},
+{
+  "directory": "D:/Projects/leetcode/build",
+  "command": "\"D:\\Program Files (x86)\\vs22\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe\"  /nologo /TP /DWIN32 /D_WINDOWS /EHsc /Ob0 /Od /RTC1 -std:c++17 -MDd -Zi /FoCMakeFiles\\46.dir\\src\\46.cc.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Projects\\leetcode\\src\\46.cc",
+  "file": "D:\\Projects\\leetcode\\src\\46.cc",
+  "output": "CMakeFiles\\46.dir\\src\\46.cc.obj"
+},
+{
+  "directory": "D:/Projects/leetcode/build",
+  "command": "\"D:\\Program Files (x86)\\vs22\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe\"  /nologo /TP /DWIN32 /D_WINDOWS /EHsc /Ob0 /Od /RTC1 -std:c++17 -MDd -Zi /FoCMakeFiles\\2719.dir\\src\\2719.cc.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Projects\\leetcode\\src\\2719.cc",
+  "file": "D:\\Projects\\leetcode\\src\\2719.cc",
+  "output": "CMakeFiles\\2719.dir\\src\\2719.cc.obj"
+},
+{
+  "directory": "D:/Projects/leetcode/build",
+  "command": "\"D:\\Program Files (x86)\\vs22\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe\"  /nologo /TP /DWIN32 /D_WINDOWS /EHsc /Ob0 /Od /RTC1 -std:c++17 -MDd -Zi /FoCMakeFiles\\2744.dir\\src\\2744.cc.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Projects\\leetcode\\src\\2744.cc",
+  "file": "D:\\Projects\\leetcode\\src\\2744.cc",
+  "output": "CMakeFiles\\2744.dir\\src\\2744.cc.obj"
+},
+{
+  "directory": "D:/Projects/leetcode/build",
+  "command": "\"D:\\Program Files (x86)\\vs22\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe\"  /nologo /TP /DWIN32 /D_WINDOWS /EHsc /Ob0 /Od /RTC1 -std:c++17 -MDd -Zi /FoCMakeFiles\\55.dir\\src\\55.cc.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Projects\\leetcode\\src\\55.cc",
+  "file": "D:\\Projects\\leetcode\\src\\55.cc",
+  "output": "CMakeFiles\\55.dir\\src\\55.cc.obj"
+},
+{
+  "directory": "D:/Projects/leetcode/build",
+  "command": "\"D:\\Program Files (x86)\\vs22\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe\"  /nologo /TP /DWIN32 /D_WINDOWS /EHsc /Ob0 /Od /RTC1 -std:c++17 -MDd -Zi /FoCMakeFiles\\2171.dir\\src\\2171.cc.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Projects\\leetcode\\src\\2171.cc",
+  "file": "D:\\Projects\\leetcode\\src\\2171.cc",
+  "output": "CMakeFiles\\2171.dir\\src\\2171.cc.obj"
+},
+{
+  "directory": "D:/Projects/leetcode/build",
+  "command": "\"D:\\Program Files (x86)\\vs22\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe\"  /nologo /TP /DWIN32 /D_WINDOWS /EHsc /Ob0 /Od /RTC1 -std:c++17 -MDd -Zi /FoCMakeFiles\\2809.dir\\src\\2809.cc.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Projects\\leetcode\\src\\2809.cc",
+  "file": "D:\\Projects\\leetcode\\src\\2809.cc",
+  "output": "CMakeFiles\\2809.dir\\src\\2809.cc.obj"
+},
+{
+  "directory": "D:/Projects/leetcode/build",
+  "command": "\"D:\\Program Files (x86)\\vs22\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe\"  /nologo /TP /DWIN32 /D_WINDOWS /EHsc /Ob0 /Od /RTC1 -std:c++17 -MDd -Zi /FoCMakeFiles\\2788.dir\\src\\2788.cc.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Projects\\leetcode\\src\\2788.cc",
+  "file": "D:\\Projects\\leetcode\\src\\2788.cc",
+  "output": "CMakeFiles\\2788.dir\\src\\2788.cc.obj"
+},
+{
+  "directory": "D:/Projects/leetcode/build",
+  "command": "\"D:\\Program Files (x86)\\vs22\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe\"  /nologo /TP /DWIN32 /D_WINDOWS /EHsc /Ob0 /Od /RTC1 -std:c++17 -MDd -Zi /FoCMakeFiles\\670.dir\\src\\670.cc.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Projects\\leetcode\\src\\670.cc",
+  "file": "D:\\Projects\\leetcode\\src\\670.cc",
+  "output": "CMakeFiles\\670.dir\\src\\670.cc.obj"
+},
+{
+  "directory": "D:/Projects/leetcode/build",
+  "command": "\"D:\\Program Files (x86)\\vs22\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe\"  /nologo /TP /DWIN32 /D_WINDOWS /EHsc /Ob0 /Od /RTC1 -std:c++17 -MDd -Zi /FoCMakeFiles\\2765.dir\\src\\2765.cc.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Projects\\leetcode\\src\\2765.cc",
+  "file": "D:\\Projects\\leetcode\\src\\2765.cc",
+  "output": "CMakeFiles\\2765.dir\\src\\2765.cc.obj"
+},
+{
+  "directory": "D:/Projects/leetcode/build",
+  "command": "\"D:\\Program Files (x86)\\vs22\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe\"  /nologo /TP /DWIN32 /D_WINDOWS /EHsc /Ob0 /Od /RTC1 -std:c++17 -MDd -Zi /FoCMakeFiles\\2859.dir\\src\\2859.cc.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Projects\\leetcode\\src\\2859.cc",
+  "file": "D:\\Projects\\leetcode\\src\\2859.cc",
+  "output": "CMakeFiles\\2859.dir\\src\\2859.cc.obj"
+},
+{
+  "directory": "D:/Projects/leetcode/build",
+  "command": "\"D:\\Program Files (x86)\\vs22\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe\"  /nologo /TP /DWIN32 /D_WINDOWS /EHsc /Ob0 /Od /RTC1 -std:c++17 -MDd -Zi /FoCMakeFiles\\lcp24.dir\\src\\lcp24.cc.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Projects\\leetcode\\src\\lcp24.cc",
+  "file": "D:\\Projects\\leetcode\\src\\lcp24.cc",
+  "output": "CMakeFiles\\lcp24.dir\\src\\lcp24.cc.obj"
+},
+{
+  "directory": "D:/Projects/leetcode/build",
+  "command": "\"D:\\Program Files (x86)\\vs22\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe\"  /nologo /TP /DWIN32 /D_WINDOWS /EHsc /Ob0 /Od /RTC1 -std:c++17 -MDd -Zi /FoCMakeFiles\\1686.dir\\src\\1686.cc.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Projects\\leetcode\\src\\1686.cc",
+  "file": "D:\\Projects\\leetcode\\src\\1686.cc",
+  "output": "CMakeFiles\\1686.dir\\src\\1686.cc.obj"
+},
+{
+  "directory": "D:/Projects/leetcode/build",
+  "command": "\"D:\\Program Files (x86)\\vs22\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe\"  /nologo /TP /DWIN32 /D_WINDOWS /EHsc /Ob0 /Od /RTC1 -std:c++17 -MDd -Zi /FoCMakeFiles\\1696.dir\\src\\1696.cc.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Projects\\leetcode\\src\\1696.cc",
+  "file": "D:\\Projects\\leetcode\\src\\1696.cc",
+  "output": "CMakeFiles\\1696.dir\\src\\1696.cc.obj"
+},
+{
+  "directory": "D:/Projects/leetcode/build",
+  "command": "\"D:\\Program Files (x86)\\vs22\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe\"  /nologo /TP /DWIN32 /D_WINDOWS /EHsc /Ob0 /Od /RTC1 -std:c++17 -MDd -Zi /FoCMakeFiles\\lcp30.dir\\src\\lcp30.cc.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Projects\\leetcode\\src\\lcp30.cc",
+  "file": "D:\\Projects\\leetcode\\src\\lcp30.cc",
+  "output": "CMakeFiles\\lcp30.dir\\src\\lcp30.cc.obj"
+},
+{
+  "directory": "D:/Projects/leetcode/build",
+  "command": "\"D:\\Program Files (x86)\\vs22\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe\"  /nologo /TP /DWIN32 /D_WINDOWS /EHsc /Ob0 /Od /RTC1 -std:c++17 -MDd -Zi /FoCMakeFiles\\2641.dir\\src\\2641.cc.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Projects\\leetcode\\src\\2641.cc",
+  "file": "D:\\Projects\\leetcode\\src\\2641.cc",
+  "output": "CMakeFiles\\2641.dir\\src\\2641.cc.obj"
+},
+{
+  "directory": "D:/Projects/leetcode/build",
+  "command": "\"D:\\Program Files (x86)\\vs22\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe\"  /nologo /TP /DWIN32 /D_WINDOWS /EHsc /Ob0 /Od /RTC1 -std:c++17 -MDd -Zi /FoCMakeFiles\\993.dir\\src\\993.cc.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Projects\\leetcode\\src\\993.cc",
+  "file": "D:\\Projects\\leetcode\\src\\993.cc",
+  "output": "CMakeFiles\\993.dir\\src\\993.cc.obj"
+},
+{
+  "directory": "D:/Projects/leetcode/build",
+  "command": "\"D:\\Program Files (x86)\\vs22\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe\"  /nologo /TP /DWIN32 /D_WINDOWS /EHsc /Ob0 /Od /RTC1 -std:c++17 -MDd -Zi /FoCMakeFiles\\236.dir\\src\\236.cc.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Projects\\leetcode\\src\\236.cc",
+  "file": "D:\\Projects\\leetcode\\src\\236.cc",
+  "output": "CMakeFiles\\236.dir\\src\\236.cc.obj"
+},
+{
+  "directory": "D:/Projects/leetcode/build",
+  "command": "\"D:\\Program Files (x86)\\vs22\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe\"  /nologo /TP /DWIN32 /D_WINDOWS /EHsc /Ob0 /Od /RTC1 -std:c++17 -MDd -Zi /FoCMakeFiles\\94.dir\\src\\94.cc.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Projects\\leetcode\\src\\94.cc",
+  "file": "D:\\Projects\\leetcode\\src\\94.cc",
+  "output": "CMakeFiles\\94.dir\\src\\94.cc.obj"
+},
+{
+  "directory": "D:/Projects/leetcode/build",
+  "command": "\"D:\\Program Files (x86)\\vs22\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe\"  /nologo /TP /DWIN32 /D_WINDOWS /EHsc /Ob0 /Od /RTC1 -std:c++17 -MDd -Zi /FoCMakeFiles\\144.dir\\src\\144.cc.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Projects\\leetcode\\src\\144.cc",
+  "file": "D:\\Projects\\leetcode\\src\\144.cc",
+  "output": "CMakeFiles\\144.dir\\src\\144.cc.obj"
+},
+{
+  "directory": "D:/Projects/leetcode/build",
+  "command": "\"D:\\Program Files (x86)\\vs22\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe\"  /nologo /TP /DWIN32 /D_WINDOWS /EHsc /Ob0 /Od /RTC1 -std:c++17 -MDd -Zi /FoCMakeFiles\\145.dir\\src\\145.cc.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Projects\\leetcode\\src\\145.cc",
+  "file": "D:\\Projects\\leetcode\\src\\145.cc",
+  "output": "CMakeFiles\\145.dir\\src\\145.cc.obj"
+},
+{
+  "directory": "D:/Projects/leetcode/build",
+  "command": "\"D:\\Program Files (x86)\\vs22\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe\"  /nologo /TP /DWIN32 /D_WINDOWS /EHsc /Ob0 /Od /RTC1 -std:c++17 -MDd -Zi /FoCMakeFiles\\987.dir\\src\\987.cc.obj /FdTARGET_COMPILE_PDB /FS -c D:\\Projects\\leetcode\\src\\987.cc",
+  "file": "D:\\Projects\\leetcode\\src\\987.cc",
+  "output": "CMakeFiles\\987.dir\\src\\987.cc.obj"
+}
+]
