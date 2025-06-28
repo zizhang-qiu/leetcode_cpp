@@ -58,6 +58,12 @@
         "list": "cpp",
         "unordered_map": "cpp",
         "xhash": "cpp",
-        "bitset": "cpp"
+        "bitset": "cpp",
+        "array": "cpp",
+        "deque": "cpp",
+        "functional": "cpp",
+        "map": "cpp",
+        "queue": "cpp",
+        "xtree": "cpp"
     }
 }
